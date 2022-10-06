@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav>
       <img className="logo" src={Logo} alt=""></img>
       <h1 className="title">
-        <Link to="/">B movies</Link>
+        <Link to="/">Cinepedia</Link>
       </h1>
       <img className="attribution" src={tmdb} alt=""></img>
     </nav>
